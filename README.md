@@ -2,7 +2,11 @@
 
 Welcome to the **ivyPraise Sneakers** ecommerce website! This is a modern, responsive website showcasing a collection of stylish sneakers for men and women. Built with pure HTML, CSS, and JavaScript, it offers a seamless browsing experience with interactive elements and a clean design.
 
-## 🌟 Features
+## 🌐 Live Demo
+
+Check out the live version here: [https://iam269.github.io/Ecommerce-Shoes-Website/](https://iam269.github.io/Ecommerce-Shoes-Website/)
+
+##  Features
 
 - 📱 **Responsive Design**: Optimized for all devices - desktop, tablet, and mobile
 - 🏠 **Home Section**: Eye-catching hero section with featured sneakers
